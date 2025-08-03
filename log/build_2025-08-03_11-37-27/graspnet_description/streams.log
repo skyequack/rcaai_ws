@@ -1,0 +1,47 @@
+[0.249s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_description -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_description
+[0.576s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.576s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.576s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[0.576s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[0.576s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.576s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.576s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.576s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.576s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.625s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.627s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.627s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.671s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.674s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.710s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.763s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.767s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.787s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.792s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.803s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.822s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.834s] -- Looking for pthread.h
+[0.901s] -- Looking for pthread.h - found
+[0.901s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.977s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.978s] -- Found Threads: TRUE  
+[1.180s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[1.180s]   By not providing "Findjoint_state_publisher.cmake" in CMAKE_MODULE_PATH
+[1.180s]   this project has asked CMake to find a package configuration file provided
+[1.180s]   by "joint_state_publisher", but CMake did not find one.
+[1.180s] 
+[1.180s]   Could not find a package configuration file provided by
+[1.180s]   "joint_state_publisher" with any of the following names:
+[1.180s] 
+[1.180s]     joint_state_publisherConfig.cmake
+[1.180s]     joint_state_publisher-config.cmake
+[1.181s] 
+[1.181s]   Add the installation prefix of "joint_state_publisher" to CMAKE_PREFIX_PATH
+[1.181s]   or set "joint_state_publisher_DIR" to a directory containing one of the
+[1.181s]   above files.  If "joint_state_publisher" provides a separate development
+[1.181s]   package or SDK, be sure it has been installed.
+[1.181s] 
+[1.181s] [0m
+[1.181s] -- Configuring incomplete, errors occurred!
+[1.181s] See also "/home/omer/rcaai_ws/build/graspnet_description/CMakeFiles/CMakeOutput.log".
+[2.897s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_description -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_description

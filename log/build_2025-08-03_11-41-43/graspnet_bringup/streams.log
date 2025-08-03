@@ -1,0 +1,23 @@
+[0.064s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_bringup -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_bringup
+[1.248s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.249s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.250s] -- Configuring incomplete, errors occurred!
+[1.251s] See also "/home/omer/rcaai_ws/build/graspnet_bringup/CMakeFiles/CMakeOutput.log".
+[1.251s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[1.251s]   By not providing "Findlaunch.cmake" in CMAKE_MODULE_PATH this project has
+[1.252s]   asked CMake to find a package configuration file provided by "launch", but
+[1.252s]   CMake did not find one.
+[1.252s] 
+[1.252s]   Could not find a package configuration file provided by "launch" with any
+[1.252s]   of the following names:
+[1.252s] 
+[1.253s]     launchConfig.cmake
+[1.253s]     launch-config.cmake
+[1.253s] 
+[1.253s]   Add the installation prefix of "launch" to CMAKE_PREFIX_PATH or set
+[1.254s]   "launch_DIR" to a directory containing one of the above files.  If "launch"
+[1.254s]   provides a separate development package or SDK, be sure it has been
+[1.254s]   installed.
+[1.255s] 
+[1.255s] [0m
+[5.635s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_bringup' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_bringup -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_bringup

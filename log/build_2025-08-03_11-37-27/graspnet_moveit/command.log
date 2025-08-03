@@ -1,0 +1,3 @@
+Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_moveit -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_moveit
+Invoked command in '/home/omer/rcaai_ws/build/graspnet_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_moveit -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_moveit
+Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_moveit -- -j8 -l8

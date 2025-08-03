@@ -1,0 +1,19 @@
+[0.637s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_gazebo -- -j8 -l8
+[1.284s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_gazebo -- -j8 -l8
+[1.289s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/omer/rcaai_ws/build/graspnet_gazebo
+[1.341s] -- Install configuration: ""
+[1.341s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/package_run_dependencies/graspnet_gazebo
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/parent_prefix_path/graspnet_gazebo
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/ament_prefix_path.sh
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/ament_prefix_path.dsv
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/path.sh
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/path.dsv
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.bash
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.sh
+[1.344s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.zsh
+[1.345s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.dsv
+[1.346s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/package.dsv
+[1.347s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/packages/graspnet_gazebo
+[1.347s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/cmake/graspnet_gazeboConfig.cmake
+[1.347s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/cmake/graspnet_gazeboConfig-version.cmake
+[1.347s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/package.xml

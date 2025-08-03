@@ -1,0 +1,76 @@
+[0.536s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_gazebo -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_gazebo
+[1.231s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.231s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.231s] -- Found gazebo_ros: 3.9.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+[1.231s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.231s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.232s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.232s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.232s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.232s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.232s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.344s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.489s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.537s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[1.540s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.549s] -- Searching for dependencies of ignition-math6
+[1.551s] -- Looking for OGRE...
+[1.562s] -- Found Ogre Ghadamon (1.9.0)
+[1.562s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.580s] -- Looking for OGRE_Paging...
+[1.581s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.581s] -- Looking for OGRE_Terrain...
+[1.581s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.581s] -- Looking for OGRE_Property...
+[1.582s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.582s] -- Looking for OGRE_RTShaderSystem...
+[1.582s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.582s] -- Looking for OGRE_Volume...
+[1.582s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.583s] -- Looking for OGRE_Overlay...
+[1.583s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.745s] -- Looking for ignition-math6 -- found version 6.15.1
+[1.746s] -- Looking for ignition-transport8 -- found version 8.2.1
+[1.746s] -- Searching for dependencies of ignition-transport8
+[1.777s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[1.796s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.805s] -- Checking for module 'libzmq >= 4'
+[1.827s] --   Found libzmq , version 4.3.4
+[1.895s] -- Checking for module 'uuid'
+[1.914s] --   Found uuid, version 2.37.2
+[1.968s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[1.969s] -- Searching for dependencies of ignition-msgs5
+[2.002s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.014s] -- Checking for module 'tinyxml2'
+[2.040s] --   Found tinyxml2, version 9.0.0
+[2.095s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.096s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.096s] -- Searching for dependencies of ignition-common3
+[2.097s] -- Looking for dlfcn.h - found
+[2.097s] -- Looking for libdl - found
+[2.117s] -- Searching for <ignition-common3> component [graphics]
+[2.118s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[2.119s] -- Searching for dependencies of ignition-common3-graphics
+[2.120s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.122s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[2.122s] -- Searching for dependencies of ignition-fuel_tools4
+[2.189s] -- Checking for module 'jsoncpp'
+[2.210s] --   Found jsoncpp, version 1.9.5
+[2.273s] -- Checking for module 'libzip'
+[2.293s] --   Found libzip, version 1.7.3
+[2.352s] -- Looking for ignition-common3 -- found version 3.14.0
+[2.353s] -- Looking for ignition-math6 -- found version 6.15.1
+[2.354s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[2.358s] -- Gazebo version: 11.10
+[2.363s] -- Found gazebo_plugins: 3.9.0 (/opt/ros/humble/share/gazebo_plugins/cmake)
+[2.522s] -- Found gazebo_ros_pkgs: 3.9.0 (/opt/ros/humble/share/gazebo_ros_pkgs/cmake)
+[2.524s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.698s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.699s] -- Added test 'lint_cmake' to check CMake code style
+[2.700s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.701s] -- Added test 'xmllint' to check XML markup files
+[2.703s] -- Configuring done
+[2.716s] -- Generating done
+[2.722s] -- Build files have been written to: /home/omer/rcaai_ws/build/graspnet_gazebo
+[5.632s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_gazebo -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_gazebo
+[5.636s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_gazebo -- -j8 -l8

@@ -1,0 +1,19 @@
+[0.660s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_moveit -- -j8 -l8
+[1.319s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_moveit -- -j8 -l8
+[1.323s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/omer/rcaai_ws/build/graspnet_moveit
+[1.341s] -- Install configuration: ""
+[1.343s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/package_run_dependencies/graspnet_moveit
+[1.343s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/parent_prefix_path/graspnet_moveit
+[1.345s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/ament_prefix_path.sh
+[1.346s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/ament_prefix_path.dsv
+[1.346s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/path.sh
+[1.346s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/path.dsv
+[1.347s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.bash
+[1.347s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.sh
+[1.347s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.zsh
+[1.348s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.dsv
+[1.348s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/package.dsv
+[1.348s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/packages/graspnet_moveit
+[1.348s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/cmake/graspnet_moveitConfig.cmake
+[1.349s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/cmake/graspnet_moveitConfig-version.cmake
+[1.349s] -- Installing: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/package.xml

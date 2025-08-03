@@ -1,0 +1,19 @@
+[0.671s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_moveit -- -j8 -l8
+[1.301s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_moveit -- -j8 -l8
+[1.320s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/omer/rcaai_ws/build/graspnet_moveit
+[1.339s] -- Install configuration: ""
+[1.340s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/package_run_dependencies/graspnet_moveit
+[1.341s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/parent_prefix_path/graspnet_moveit
+[1.341s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/ament_prefix_path.sh
+[1.341s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/ament_prefix_path.dsv
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/path.sh
+[1.342s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/environment/path.dsv
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.bash
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.sh
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.zsh
+[1.343s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/local_setup.dsv
+[1.344s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/package.dsv
+[1.344s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/ament_index/resource_index/packages/graspnet_moveit
+[1.344s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/cmake/graspnet_moveitConfig.cmake
+[1.344s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/cmake/graspnet_moveitConfig-version.cmake
+[1.345s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_moveit/share/graspnet_moveit/package.xml

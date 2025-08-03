@@ -1,0 +1,15 @@
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/package_run_dependencies/graspnet_gazebo
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/parent_prefix_path/graspnet_gazebo
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/ament_prefix_path.sh
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/ament_prefix_path.dsv
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/path.sh
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/environment/path.dsv
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.bash
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.sh
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.zsh
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/local_setup.dsv
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/package.dsv
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/ament_index/resource_index/packages/graspnet_gazebo
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/cmake/graspnet_gazeboConfig.cmake
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/cmake/graspnet_gazeboConfig-version.cmake
+/home/omer/rcaai_ws/install/graspnet_gazebo/share/graspnet_gazebo/package.xml
