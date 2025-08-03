@@ -1,0 +1,41 @@
+[0.690s] Invoking command in '/home/omer/rcaai_ws/src/graspnet_control': PYTHONPATH=/home/omer/rcaai_ws/build/graspnet_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/graspnet_control build --build-base /home/omer/rcaai_ws/build/graspnet_control/build install --record /home/omer/rcaai_ws/build/graspnet_control/install.log --single-version-externally-managed install_data
+[0.870s] running egg_info
+[0.871s] creating ../../build/graspnet_control/graspnet_control.egg-info
+[0.871s] writing ../../build/graspnet_control/graspnet_control.egg-info/PKG-INFO
+[0.871s] writing dependency_links to ../../build/graspnet_control/graspnet_control.egg-info/dependency_links.txt
+[0.871s] writing entry points to ../../build/graspnet_control/graspnet_control.egg-info/entry_points.txt
+[0.871s] writing requirements to ../../build/graspnet_control/graspnet_control.egg-info/requires.txt
+[0.871s] writing top-level names to ../../build/graspnet_control/graspnet_control.egg-info/top_level.txt
+[0.871s] writing manifest file '../../build/graspnet_control/graspnet_control.egg-info/SOURCES.txt'
+[0.872s] reading manifest file '../../build/graspnet_control/graspnet_control.egg-info/SOURCES.txt'
+[0.873s] writing manifest file '../../build/graspnet_control/graspnet_control.egg-info/SOURCES.txt'
+[0.873s] running build
+[0.873s] running build_py
+[0.873s] creating /home/omer/rcaai_ws/build/graspnet_control/build
+[0.873s] creating /home/omer/rcaai_ws/build/graspnet_control/build/lib
+[0.874s] creating /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control
+[0.874s] copying graspnet_control/robot_controller.py -> /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control
+[0.874s] copying graspnet_control/__init__.py -> /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control
+[0.874s] copying graspnet_control/grasp_planner.py -> /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control
+[0.874s] running install
+[0.874s] running install_lib
+[0.874s] creating /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control
+[0.874s] copying /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control/robot_controller.py -> /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control
+[0.874s] copying /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control/__init__.py -> /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control
+[0.874s] copying /home/omer/rcaai_ws/build/graspnet_control/build/lib/graspnet_control/grasp_planner.py -> /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control
+[0.875s] byte-compiling /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control/robot_controller.py to robot_controller.cpython-310.pyc
+[0.875s] byte-compiling /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control/__init__.py to __init__.cpython-310.pyc
+[0.875s] byte-compiling /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control/grasp_planner.py to grasp_planner.cpython-310.pyc
+[0.876s] running install_data
+[0.876s] creating /home/omer/rcaai_ws/install/graspnet_control/share/ament_index
+[0.876s] creating /home/omer/rcaai_ws/install/graspnet_control/share/ament_index/resource_index
+[0.876s] creating /home/omer/rcaai_ws/install/graspnet_control/share/ament_index/resource_index/packages
+[0.876s] copying resource/graspnet_control -> /home/omer/rcaai_ws/install/graspnet_control/share/ament_index/resource_index/packages
+[0.876s] copying package.xml -> /home/omer/rcaai_ws/install/graspnet_control/share/graspnet_control
+[0.876s] running install_egg_info
+[0.877s] Copying ../../build/graspnet_control/graspnet_control.egg-info to /home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages/graspnet_control-0.0.0-py3.10.egg-info
+[0.878s] running install_scripts
+[0.893s] Installing grasp_planner script to /home/omer/rcaai_ws/install/graspnet_control/lib/graspnet_control
+[0.893s] Installing robot_controller script to /home/omer/rcaai_ws/install/graspnet_control/lib/graspnet_control
+[0.893s] writing list of installed files to '/home/omer/rcaai_ws/build/graspnet_control/install.log'
+[0.917s] Invoked command in '/home/omer/rcaai_ws/src/graspnet_control' returned '0': PYTHONPATH=/home/omer/rcaai_ws/build/graspnet_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omer/rcaai_ws/install/graspnet_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/graspnet_control build --build-base /home/omer/rcaai_ws/build/graspnet_control/build install --record /home/omer/rcaai_ws/build/graspnet_control/install.log --single-version-externally-managed install_data

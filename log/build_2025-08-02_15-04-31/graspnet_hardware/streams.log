@@ -1,0 +1,20 @@
+[0.193s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_hardware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_hardware -- -j8 -l8
+[0.375s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_hardware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/omer/rcaai_ws/build/graspnet_hardware -- -j8 -l8
+[0.382s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_hardware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/omer/rcaai_ws/build/graspnet_hardware
+[0.387s] -- Install configuration: ""
+[0.387s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/package_run_dependencies/graspnet_hardware
+[0.387s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/parent_prefix_path/graspnet_hardware
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/ament_prefix_path.sh
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/ament_prefix_path.dsv
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/path.sh
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/path.dsv
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.bash
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.sh
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.zsh
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.dsv
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/package.dsv
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/packages/graspnet_hardware
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/cmake/graspnet_hardwareConfig.cmake
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/cmake/graspnet_hardwareConfig-version.cmake
+[0.388s] -- Up-to-date: /home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/package.xml
+[0.389s] Invoked command in '/home/omer/rcaai_ws/build/graspnet_hardware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/omer/rcaai_ws/build/graspnet_hardware

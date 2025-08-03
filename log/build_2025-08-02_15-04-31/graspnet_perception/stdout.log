@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/graspnet_perception/graspnet_perception.egg-info
+writing ../../build/graspnet_perception/graspnet_perception.egg-info/PKG-INFO
+writing dependency_links to ../../build/graspnet_perception/graspnet_perception.egg-info/dependency_links.txt
+writing entry points to ../../build/graspnet_perception/graspnet_perception.egg-info/entry_points.txt
+writing requirements to ../../build/graspnet_perception/graspnet_perception.egg-info/requires.txt
+writing top-level names to ../../build/graspnet_perception/graspnet_perception.egg-info/top_level.txt
+writing manifest file '../../build/graspnet_perception/graspnet_perception.egg-info/SOURCES.txt'
+reading manifest file '../../build/graspnet_perception/graspnet_perception.egg-info/SOURCES.txt'
+writing manifest file '../../build/graspnet_perception/graspnet_perception.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/omer/rcaai_ws/build/graspnet_perception/build
+creating /home/omer/rcaai_ws/build/graspnet_perception/build/lib
+creating /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception
+copying graspnet_perception/__init__.py -> /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception
+copying graspnet_perception/object_detector.py -> /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception
+copying graspnet_perception/camera_manager.py -> /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception
+running install
+running install_lib
+creating /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception
+copying /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception/__init__.py -> /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception
+copying /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception/object_detector.py -> /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception
+copying /home/omer/rcaai_ws/build/graspnet_perception/build/lib/graspnet_perception/camera_manager.py -> /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception
+byte-compiling /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception/object_detector.py to object_detector.cpython-310.pyc
+byte-compiling /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception/camera_manager.py to camera_manager.cpython-310.pyc
+running install_data
+creating /home/omer/rcaai_ws/install/graspnet_perception/share/ament_index
+creating /home/omer/rcaai_ws/install/graspnet_perception/share/ament_index/resource_index
+creating /home/omer/rcaai_ws/install/graspnet_perception/share/ament_index/resource_index/packages
+copying resource/graspnet_perception -> /home/omer/rcaai_ws/install/graspnet_perception/share/ament_index/resource_index/packages
+copying package.xml -> /home/omer/rcaai_ws/install/graspnet_perception/share/graspnet_perception
+running install_egg_info
+Copying ../../build/graspnet_perception/graspnet_perception.egg-info to /home/omer/rcaai_ws/install/graspnet_perception/lib/python3.10/site-packages/graspnet_perception-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_manager script to /home/omer/rcaai_ws/install/graspnet_perception/lib/graspnet_perception
+Installing object_detector script to /home/omer/rcaai_ws/install/graspnet_perception/lib/graspnet_perception
+writing list of installed files to '/home/omer/rcaai_ws/build/graspnet_perception/install.log'

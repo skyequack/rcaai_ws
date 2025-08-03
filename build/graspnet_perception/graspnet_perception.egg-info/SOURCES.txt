@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/graspnet_perception/graspnet_perception.egg-info/PKG-INFO
+../../build/graspnet_perception/graspnet_perception.egg-info/SOURCES.txt
+../../build/graspnet_perception/graspnet_perception.egg-info/dependency_links.txt
+../../build/graspnet_perception/graspnet_perception.egg-info/entry_points.txt
+../../build/graspnet_perception/graspnet_perception.egg-info/requires.txt
+../../build/graspnet_perception/graspnet_perception.egg-info/top_level.txt
+../../build/graspnet_perception/graspnet_perception.egg-info/zip-safe
+graspnet_perception/__init__.py
+graspnet_perception/camera_manager.py
+graspnet_perception/object_detector.py
+resource/graspnet_perception
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

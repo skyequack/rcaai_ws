@@ -1,0 +1,4 @@
+[console_scripts]
+camera_manager = graspnet_perception.camera_manager:main
+object_detector = graspnet_perception.object_detector:main
+

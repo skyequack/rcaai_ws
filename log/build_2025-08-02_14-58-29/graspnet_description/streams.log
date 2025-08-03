@@ -1,0 +1,35 @@
+[0.011s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_description -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_description
+[0.058s] -- The C compiler identification is GNU 11.4.0
+[0.099s] -- The CXX compiler identification is GNU 11.4.0
+[0.104s] -- Detecting C compiler ABI info
+[0.159s] -- Detecting C compiler ABI info - done
+[0.164s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.165s] -- Detecting C compile features
+[0.165s] -- Detecting C compile features - done
+[0.168s] -- Detecting CXX compiler ABI info
+[0.231s] -- Detecting CXX compiler ABI info - done
+[0.237s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.237s] -- Detecting CXX compile features
+[0.237s] -- Detecting CXX compile features - done
+[0.238s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.364s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.435s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.537s] [31mCMake Error at CMakeLists.txt:11 (find_package):
+[0.537s]   By not providing "Findxacro.cmake" in CMAKE_MODULE_PATH this project has
+[0.537s]   asked CMake to find a package configuration file provided by "xacro", but
+[0.537s]   CMake did not find one.
+[0.537s] 
+[0.537s]   Could not find a package configuration file provided by "xacro" with any of
+[0.537s]   the following names:
+[0.537s] 
+[0.537s]     xacroConfig.cmake
+[0.537s]     xacro-config.cmake
+[0.537s] 
+[0.537s]   Add the installation prefix of "xacro" to CMAKE_PREFIX_PATH or set
+[0.537s]   "xacro_DIR" to a directory containing one of the above files.  If "xacro"
+[0.537s]   provides a separate development package or SDK, be sure it has been
+[0.537s]   installed.
+[0.537s] 
+[0.538s] [0m
+[0.538s] -- Configuring incomplete, errors occurred!
+[0.538s] See also "/home/omer/rcaai_ws/build/graspnet_description/CMakeFiles/CMakeOutput.log".

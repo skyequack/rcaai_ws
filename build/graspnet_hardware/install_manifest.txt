@@ -1,0 +1,15 @@
+/home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/package_run_dependencies/graspnet_hardware
+/home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/parent_prefix_path/graspnet_hardware
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/ament_prefix_path.sh
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/ament_prefix_path.dsv
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/path.sh
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/environment/path.dsv
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.bash
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.sh
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.zsh
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/local_setup.dsv
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/package.dsv
+/home/omer/rcaai_ws/install/graspnet_hardware/share/ament_index/resource_index/packages/graspnet_hardware
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/cmake/graspnet_hardwareConfig.cmake
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/cmake/graspnet_hardwareConfig-version.cmake
+/home/omer/rcaai_ws/install/graspnet_hardware/share/graspnet_hardware/package.xml

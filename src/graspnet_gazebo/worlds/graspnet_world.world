@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="graspnet_world">
+    
+    <!-- Physics settings -->
+    <physics name="default_physics" default="0" type="ode">
+      <gravity>0 0 -9.8066</gravity>
+      <ode>
+        <solver>
+          <type>quick</type>
+          <iters>150</iters>
+          <sor>1.3</sor>
+        </solver>
+        <constraints>
+          <cfm>0.00001</cfm>
+          <erp>0.2</erp>
+          <contact_max_correcting_vel>1000</contact_max_correcting_vel>
+          <contact_surface_layer>0.01</contact_surface_layer>
+        </constraints>
+      </ode>
+      <max_step_size>0.004</max_step_size>
+      <real_time_factor>1.0</real_time_factor>
+      <real_time_update_rate>250</real_time_update_rate>
+    </physics>
+    
+    <!-- Lighting -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    
+    <!-- Ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    
+    <!-- Table for grasping experiments -->
+    <model name="table">
+      <static>true</static>
+      <link name="link">
+        <collision name="surface">
+          <pose>0 0 1 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.5 2.5 0.03</size>
+            </box>
+          </geometry>
+        </collision>
+        <visual name="visual1">
+          <pose>0 0 1 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.5 2.5 0.03</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Wood</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+      <pose>0.5 0 0 0 0 0</pose>
+    </model>
+    
+    <!-- TODO: Add objects for grasping -->
+    <!-- TODO: Add camera positions -->
+    <!-- TODO: Add lighting setup -->
+    
+  </world>
+</sdf>

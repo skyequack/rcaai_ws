@@ -1,0 +1,34 @@
+[0.011s] Invoking command in '/home/omer/rcaai_ws/build/graspnet_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/omer/rcaai_ws/src/graspnet_bringup -DCMAKE_INSTALL_PREFIX=/home/omer/rcaai_ws/install/graspnet_bringup
+[0.061s] -- The C compiler identification is GNU 11.4.0
+[0.103s] -- The CXX compiler identification is GNU 11.4.0
+[0.108s] -- Detecting C compiler ABI info
+[0.158s] -- Detecting C compiler ABI info - done
+[0.166s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.166s] -- Detecting C compile features
+[0.167s] -- Detecting C compile features - done
+[0.169s] -- Detecting CXX compiler ABI info
+[0.230s] -- Detecting CXX compiler ABI info - done
+[0.238s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.238s] -- Detecting CXX compile features
+[0.239s] -- Detecting CXX compile features - done
+[0.240s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.361s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.442s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.442s]   By not providing "Findlaunch.cmake" in CMAKE_MODULE_PATH this project has
+[0.443s]   asked CMake to find a package configuration file provided by "launch", but
+[0.443s]   CMake did not find one.
+[0.443s] 
+[0.443s]   Could not find a package configuration file provided by "launch" with any
+[0.443s]   of the following names:
+[0.443s] 
+[0.443s]     launchConfig.cmake
+[0.443s]     launch-config.cmake
+[0.443s] 
+[0.443s]   Add the installation prefix of "launch" to CMAKE_PREFIX_PATH or set
+[0.443s]   "launch_DIR" to a directory containing one of the above files.  If "launch"
+[0.443s]   provides a separate development package or SDK, be sure it has been
+[0.443s]   installed.
+[0.443s] 
+[0.443s] [0m
+[0.443s] -- Configuring incomplete, errors occurred!
+[0.443s] See also "/home/omer/rcaai_ws/build/graspnet_bringup/CMakeFiles/CMakeOutput.log".

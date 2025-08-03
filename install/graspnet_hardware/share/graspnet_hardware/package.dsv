@@ -1,0 +1,8 @@
+source;share/graspnet_hardware/hook/cmake_prefix_path.ps1
+source;share/graspnet_hardware/hook/cmake_prefix_path.dsv
+source;share/graspnet_hardware/hook/cmake_prefix_path.sh
+source;share/graspnet_hardware/local_setup.bash
+source;share/graspnet_hardware/local_setup.dsv
+source;share/graspnet_hardware/local_setup.ps1
+source;share/graspnet_hardware/local_setup.sh
+source;share/graspnet_hardware/local_setup.zsh

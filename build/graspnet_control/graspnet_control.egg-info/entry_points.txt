@@ -1,0 +1,4 @@
+[console_scripts]
+grasp_planner = graspnet_control.grasp_planner:main
+robot_controller = graspnet_control.robot_controller:main
+
