@@ -12,13 +12,13 @@ This project provides a complete simulation environment for developing and testi
 ┌─────────────────────────────────────────────────────────────┐
 │                    GraspNet System                          │
 ├─────────────────────────────────────────────────────────────┤
-│  graspnet_bringup/     │  System orchestration & launch    │
-│  graspnet_hardware/    │  Hardware interfaces              │
-│  graspnet_description/ │  Robot models & URDF files       │
-│  graspnet_gazebo/      │  Simulation environments         │
-│  graspnet_moveit/      │  Motion planning configuration    │
-│  graspnet_control/     │  Robot control & grasp planning  │
-│  graspnet_perception/  │  Vision & object detection       │
+│  graspnet_bringup/     │  System orchestration & launch     │
+│  graspnet_hardware/    │  Hardware interfaces               │
+│  graspnet_description/ │  Robot models & URDF files         │
+│  graspnet_gazebo/      │  Simulation environments           │
+│  graspnet_moveit/      │  Motion planning configuration     │
+│  graspnet_control/     │  Robot control & grasp planning    │
+│  graspnet_perception/  │  Vision & object detection         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
